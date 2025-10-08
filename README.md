@@ -8,9 +8,7 @@
 - installs shizuku if missing
 - installs adb if missing
 - can also run as daemon
-- can run on termux
-
-![demo](https://i.ibb.co/7tFSvDSw/gif.gif)
+- can run on termux)
 
 **Special Thanks and Credits to @nohajc for termux-adb**
 
